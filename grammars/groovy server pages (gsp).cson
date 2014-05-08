@@ -1,7 +1,6 @@
 'scopeName': 'text.html.gsp'
 'name': 'GroovyServer Pages'
 'fileTypes': [
-  'jsp'
   'gsp'
 ]
 'injections':

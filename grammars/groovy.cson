@@ -2,6 +2,7 @@
 'name': 'Groovy'
 'fileTypes': [
   'groovy'
+  'gvy'
   'bsh'
 ]
 'patterns': [

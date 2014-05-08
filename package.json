@@ -1,5 +1,5 @@
 {
-  "name": "language-groovy",
+  "name": "language-groovy-cloned-from-java",
   "version": "0.1.0",
   "description": "Groovy language support in Atom",
   "engines": {
