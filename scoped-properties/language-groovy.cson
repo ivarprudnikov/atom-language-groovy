@@ -1,10 +1,10 @@
-'.source.java':
+'.source.groovy':
   'editor':
     'commentStart': '// '
     'foldEndPattern': '^\\s*(\\}|// \\}\\}\\}$)'
     'increaseIndentPattern': '^.*\\{(\\}|[^}"\']*)$|^\\s*(public|private|protected):\\s*$'
     'decreaseIndentPattern': '^(.*\\*/)?\\s*\\}|^\\s*(public|private|protected):\\s*$'
-'.text.html.jsp':
+'.text.html.gsp':
   'editor':
     'foldEndPattern': '\\*\\*/|^\\s*\\}'
     'commentStart': '<%-- '
@@ -14,6 +14,6 @@
 '.text.junit-test-report':
   'editor':
     'foldEndPattern': '^\\s*(\\}|// \\}\\}\\}$)'
-'.source.java-properties':
+'.source.groovy-properties':
   'editor':
     'commentStart': '# '
