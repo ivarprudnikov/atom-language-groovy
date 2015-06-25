@@ -1,7 +1,7 @@
 {
   "name": "language-groovy-cloned-from-java",
   "version": "0.2.2",
-  "description": "Groovy language support in Atom",
+  "description": "Groovy language support in Atom. Initially cloned from java and later added GSP support.",
   "engines": {
     "atom": "*",
     "node": "*"
